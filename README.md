@@ -1,4 +1,4 @@
-## Processor Breakdown
+## Processor Breakdown (Example)
 * Core i7-11800H
   * 11 = 11th Generaton
   * 800 = Specific Model #
