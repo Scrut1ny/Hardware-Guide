@@ -1,5 +1,7 @@
 ## Processor Breakdown (Example)
 * Core i7-11800H
+  * i7 = High-Performance Series
+   - "i7" indicates that the processor belongs to Intel's high-performance Core i7 series. These processors typically feature advanced capabilities, including more cores, higher clock speeds, and additional features compared to lower-tier models.
   * 11 = 11th Generaton
   * 800 = Specific Model #
   * H = High Performance
