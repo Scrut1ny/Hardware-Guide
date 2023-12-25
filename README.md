@@ -8,44 +8,24 @@
 
 # Processor Suffixes Reference
 
-## Intel Processors
-
-### Laptops
-
-| Suffix  | Description                        |
-|---------|------------------------------------|
-| U       | Ultra-Low Power                    |
-| Y       | Extremely Low Power                |
-| H       | High Performance Graphics          |
-| HQ/HK   | High-Performance, Unlocked (Mobile)|
-
-### Desktops
-
-| Suffix  | Description                        |
-|---------|------------------------------------|
-| C/K     | Unlocked Multiplier                |
-| F       | No Integrated Graphics             |
-| G       | Iris Xe Graphics                   |
-| T       | Power-Optimized                    |
-| X       | Extreme Performance                |
-| E       | Embedded                           |
-
-## AMD Processors
-
-### Laptops
-
-| Suffix  | Description                        |
-|---------|------------------------------------|
-| U       | Ultra-Low Power                    |
-| H/HS    | High-Performance (HS may be efficient)|
-| G       | Radeon Vega Graphics               |
-
-### Desktops
-
-| Suffix  | Description                        |
-|---------|------------------------------------|
-| X       | High Performance                   |
-| G       | Radeon Vega Graphics               |
+| Suffix  | Intel Description                                     | AMD Description                                      |
+|---------|-------------------------------------------------------|-------------------------------------------------------|
+| U       | Ultra-Low Power                                       | Ultra-Low Power                                       |
+| Y       | Extremely Low Power                                   | -                                                     |
+| H       | High Performance Graphics                             | -                                                     |
+| HQ/HK   | High-Performance, Unlocked (Mobile)                   | High-Performance (HS may be efficient)                 |
+| G       | Iris Xe Graphics                                      | Radeon Vega Graphics                                  |
+| C/K     | Unlocked Multiplier                                   | -                                                     |
+| F       | No Integrated Graphics                                | -                                                     |
+| T       | Power-Optimized                                       | Power-Optimized                                       |
+| X       | Extreme Performance                                   | High Performance                                      |
+| E       | Embedded                                              | -                                                     |
+| XT      | -                                                     | eXtended Frequency Range, High Performance            |
+| GE      | -                                                     | Graphics Edition (Integrated Graphics)                |
+| PRO     | -                                                     | Professional Series                                   |
+| +       | Enhanced or Advanced version                          | -                                                     |
+| S       | Special Edition                                       | -                                                     |
+| -       | -                                                     | Special Edition                                       |
 
 * i7-11800H
   * 11 = 11th Generaton
