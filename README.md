@@ -23,4 +23,5 @@
 | GAMING | RENDER | BUSINESS |
 |-|-|-|
 | 🪫 Short Battery Life | 🪫 Short Battery Life | 🔋 Long Battery Life |
+| High Performance | High Performance | Low Performance |
 | H Series | H Series | U, Y, G1, G7 Series |
