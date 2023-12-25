@@ -4,6 +4,9 @@
 * [Micro Center](https://www.microcenter.com/)
 
 # ===== CPU (Processor) =====
+* [Intel® Core™ Processor Suffixes](https://www.intel.com/content/www/us/en/support/articles/000058567/processors/intel-core-processors.html)
+* [Intel® Processor Names and Numbers](https://www.intel.com/content/www/us/en/processors/processor-numbers.html)
+* [AMD Ryzen CPU Names](https://www.howtogeek.com/all-the-letters-in-amd-ryzen-cpu-names-explained/)
 
 ## Processor Breakdown (Example)
 * Core i7-11800H
