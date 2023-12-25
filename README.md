@@ -3,7 +3,7 @@
 * [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
 * [Micro Center](https://www.microcenter.com/)
 
-# CPU (Processor)
+# ===== CPU (Processor) =====
 
 ## Processor Breakdown (Example)
 * Core i7-11800H
@@ -44,7 +44,7 @@
 | S       | Special Edition                                       | -                                                     |
 | -       | -                                                     | Special Edition                                       |
 
-# Motherboard
+# ===== Motherboard =====
 
 ## Form Factors
 |  | Mini-ITX | MicroATX | ATX |
