@@ -47,7 +47,6 @@
 | X       | High Performance                   |
 | G       | Radeon Vega Graphics               |
 
-
 * i7-11800H
   * 11 = 11th Generaton
   * H = High Performance
