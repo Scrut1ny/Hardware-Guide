@@ -1,10 +1,10 @@
-## Processor Performance Levels
-| Intel    | AMD         | Description                               |
-|----------|-------------|-------------------------------------------|
-| Core i3  | Ryzen 3     | Entry-Level / Budget                      |
-| Core i5  | Ryzen 5     | Mid-Range / Mainstream                    |
-| Core i7  | Ryzen 7     | High-Performance / Enthusiast             |
-| Core i9  | Ryzen 9     | Enthusiast / High-End                     |
+## Processor Overview
+| Tier     | Intel          | AMD             | Description                               | Price Range             | Power Consumption Range  |
+|----------|----------------|-----------------|-------------------------------------------|-------------------------|--------------------------|
+| Entry    | Core i3         | Ryzen 3         | Budget-Friendly                           | $ - $$                  | Low to Moderate          |
+| Mid-Range| Core i5         | Ryzen 5         | Mainstream Performance                    | $$ - $$$                 | Moderate to Moderate-High|
+| High-Perf| Core i7         | Ryzen 7         | High-Performance                          | $$$ - $$$$               | Moderate-High            |
+| Enthusiast| Core i9        | Ryzen 9         | Enthusiast and High-End Performance       | $$$$ - $$$$$             | High                     |
 
 ## Processor Suffixes Reference
 | Suffix  | Intel Description                                     | AMD Description                                      |
