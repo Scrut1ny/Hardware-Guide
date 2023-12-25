@@ -19,7 +19,7 @@
   * 11 = 11th Generaton
   * H = High Performance
 
-### GAMING / RENDER / BUSINESS
+### Personal Preference
 | GAMING | RENDER | BUSINESS |
 |-|-|-|
 | 🪫 Short Battery Life | 🪫 Short Battery Life | 🔋 Long Battery Life |
