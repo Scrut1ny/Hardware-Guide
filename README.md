@@ -1,3 +1,8 @@
+## Electronics Store Websites
+* [newegg](https://www.newegg.com/)
+* [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
+* [Micro Center](https://www.microcenter.com/)
+
 ## Processor Breakdown (Example)
 * Core i7-11800H
   * i7 = High-Performance Series/Tier
