@@ -1,5 +1,10 @@
-### CPUs Performance Levels
+### GAMING / RENDER / BUSINESS
+| GAMING | RENDER | BUSINESS |
+|-|-|-|
+| 🪫 Short Battery Life | 🪫 Short Battery Life | 🔋 Long Battery Life |
+| H Series | H Series | U, Y, G1, G7 Series |
 
+### CPUs Performance Levels
 | Intel | AMD | Performance Level |
 |-|-|-|
 | i3 | 3 | Entry Level |
@@ -8,7 +13,6 @@
 | i9 | 9 | High End |
 
 ### CPUs Number & Letter Meanings
-
 | Letter/Numbers | Meaning |
 |-|-|
 | H | High Performance |
