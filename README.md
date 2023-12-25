@@ -1,13 +1,12 @@
-### CPUs Performance Levels
-| Intel | AMD | Performance Level |
-|-|-|-|
-| i3 | 3 | Entry Level |
-| i5 | 5 | Mid-Range |
-| i7 | 7 | High End |
-| i9 | 9 | High End |
+## Processor Performance Levels
+| Intel    | AMD         | Description                               |
+|----------|-------------|-------------------------------------------|
+| Core i3  | Ryzen 3     | Entry-Level / Budget                      |
+| Core i5  | Ryzen 5     | Mid-Range / Mainstream                    |
+| Core i7  | Ryzen 7     | High-Performance / Enthusiast             |
+| Core i9  | Ryzen 9     | Enthusiast / High-End                     |
 
-### Processor Suffixes Reference
-
+## Processor Suffixes Reference
 | Suffix  | Intel Description                                     | AMD Description                                      |
 |---------|-------------------------------------------------------|-------------------------------------------------------|
 | U       | Ultra-Low Power                                       | Ultra-Low Power                                       |
