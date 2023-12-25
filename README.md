@@ -6,7 +6,7 @@
 | i7 | 7 | High End |
 | i9 | 9 | High End |
 
-# Processor Suffixes Reference
+### Processor Suffixes Reference
 
 | Suffix  | Intel Description                                     | AMD Description                                      |
 |---------|-------------------------------------------------------|-------------------------------------------------------|
