@@ -1,9 +1,3 @@
-### GAMING / RENDER / BUSINESS
-| GAMING | RENDER | BUSINESS |
-|-|-|-|
-| 🪫 Short Battery Life | 🪫 Short Battery Life | 🔋 Long Battery Life |
-| H Series | H Series | U, Y, G1, G7 Series |
-
 ### CPUs Performance Levels
 | Intel | AMD | Performance Level |
 |-|-|-|
@@ -24,3 +18,9 @@
 * i7-11800H
   * 11 = 11th Generaton
   * H = High Performance
+
+### GAMING / RENDER / BUSINESS
+| GAMING | RENDER | BUSINESS |
+|-|-|-|
+| 🪫 Short Battery Life | 🪫 Short Battery Life | 🔋 Long Battery Life |
+| H Series | H Series | U, Y, G1, G7 Series |
