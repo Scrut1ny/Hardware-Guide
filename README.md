@@ -3,6 +3,8 @@
 * [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
 * [Micro Center](https://www.microcenter.com/)
 
+# CPU (Processor)
+
 ## Processor Breakdown (Example)
 * Core i7-11800H
   * i7 = High-Performance Series/Tier
@@ -41,6 +43,23 @@
 | +       | Enhanced or Advanced version                          | -                                                     |
 | S       | Special Edition                                       | -                                                     |
 | -       | -                                                     | Special Edition                                       |
+
+# Motherboard
+
+## Form Factors
+|  | Mini-ITX | MicroATX | ATX |
+|-|-|-|-|
+| Size | 9.0 x 7.5 inches | 9.6 x 9.6 inches | 12 x 9.6 inches |
+| Expansion Slots | 1 | 4 | 7 |
+| RAM | DIMM | DIMM | DIMM |
+| RAM Slots | 2 | Up to 4 | Up to 8 |
+| GPUs | Up to 1 | Up to 3 | Up to 4 |
+| SATA ports | Up to 6 | Up to 8 | Up to 12 |
+
+
+
+
+
 
 ## Personal Preference
 | GAMING | PROFESSIONAL | ULTRABOOK |
