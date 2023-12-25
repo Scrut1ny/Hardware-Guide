@@ -6,14 +6,47 @@
 | i7 | 7 | High End |
 | i9 | 9 | High End |
 
-### CPUs Number & Letter Meanings
-| Letter/Numbers | Meaning |
-|-|-|
-| H | High Performance |
-| G1 | Low Integrated Graphics Card (iGPU) |
-| G7 | High Integrated Graphics Card (iGPU) |
-| Y | Ultra Low Power Consumption |
-| U | Low Power Consumption |
+# Processor Suffixes Reference
+
+## Intel Processors
+
+### Laptops
+
+| Suffix  | Description                        |
+|---------|------------------------------------|
+| U       | Ultra-Low Power                    |
+| Y       | Extremely Low Power                |
+| H       | High Performance Graphics          |
+| HQ/HK   | High-Performance, Unlocked (Mobile)|
+
+### Desktops
+
+| Suffix  | Description                        |
+|---------|------------------------------------|
+| C/K     | Unlocked Multiplier                |
+| F       | No Integrated Graphics             |
+| G       | Iris Xe Graphics                   |
+| T       | Power-Optimized                    |
+| X       | Extreme Performance                |
+| E       | Embedded                           |
+
+## AMD Processors
+
+### Laptops
+
+| Suffix  | Description                        |
+|---------|------------------------------------|
+| U       | Ultra-Low Power                    |
+| H/HS    | High-Performance (HS may be efficient)|
+| G       | Radeon Vega Graphics               |
+
+### Desktops
+
+| Suffix  | Description                        |
+|---------|------------------------------------|
+| X       | High Performance                   |
+| G       | Radeon Vega Graphics               |
+
 
 * i7-11800H
   * 11 = 11th Generaton
