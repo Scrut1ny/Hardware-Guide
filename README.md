@@ -1,5 +1,5 @@
 ### CPUs Performance Levels
-| <img src="https://external-content.duckduckgo.com/ip3/www.intel.com.ico" width="16" height="16"> Intel | <img src="https://external-content.duckduckgo.com/ip3/www.amd.com.ico" width="16" height="16"> AMD | Performance Level |
+| Intel | AMD | Performance Level |
 |-|-|-|
 | i3 | 3 | Entry Level |
 | i5 | 5 | Mid-Range |
