@@ -1,3 +1,13 @@
+## Processor Breakdown
+* Core i7-11800H
+  * 11 = 11th Generaton
+  * 800 = Specific Model #
+  * H = High Performance
+* Ryzen 7 5800X
+  * 7 = 7th Generation (Note: AMD Ryzen processors don't strictly follow a numeric generation naming convention like Intel)
+  * 5800 = Specific Model #
+  * X = High-Performance Desktop Processor
+
 ## Processor Overview
 | Tier     | Intel          | AMD             | Description                               | Average Price Range      | Power Consumption Range  |
 |----------|----------------|-----------------|-------------------------------------------|--------------------------|--------------------------|
@@ -25,10 +35,6 @@
 | +       | Enhanced or Advanced version                          | -                                                     |
 | S       | Special Edition                                       | -                                                     |
 | -       | -                                                     | Special Edition                                       |
-
-* i7-11800H
-  * 11 = 11th Generaton
-  * H = High Performance
 
 ### Personal Preference
 | GAMING | RENDER | BUSINESS |
