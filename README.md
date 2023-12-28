@@ -87,6 +87,17 @@
   * Navigate to the "Reset to default" or "Load optimized defaults" option.
   * Save changes and exit.
 
+## EZ Debug LED
+* 🟥 CPU
+  * indicates CPU is not detected or fail.
+* 🟨 DRAM
+  * indicates DRAM is not detected or fail.
+* ⬜ VGA
+  * indicates GPU is not detected or fail.
+  * motherboard could also be bricked; if so, use the Flash BIOS Button if available.
+* 🟩 BOOT
+  * indicates the booting device is not detected or fail.
+
 
 ## Personal Preference
 | GAMING | PROFESSIONAL | ULTRABOOK |
