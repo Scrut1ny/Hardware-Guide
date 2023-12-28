@@ -59,6 +59,9 @@
 | GPUs | Up to 1 | Up to 3 | Up to 4 |
 | SATA ports | Up to 6 | Up to 8 | Up to 12 |
 
+## CMOS Battery (CR2032 3V Lithium Battery)
+* [LiCB](https://www.amazon.com/dp/B071D4DKTZ)
+* [Energizer](https://www.amazon.com/dp/B0002RID4G)
 
 
 
