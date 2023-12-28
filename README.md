@@ -94,9 +94,20 @@
   * indicates DRAM is not detected or fail.
 * ⬜ VGA
   * indicates GPU is not detected or fail.
-  * motherboard could also be bricked; if so, use the Flash BIOS Button if available.
 * 🟩 BOOT
   * indicates the booting device is not detected or fail.
+
+# ===== Troubleshooting =====
+
+* Issue: "EZ Debug LED" shows/displays the "VGA" LED light - No display and "failure to boot into UEFI/BIOS."
+  * Solutions:
+    * Check if your CPU supports iGPU (Integrated Graphics); attempt to get output from the motherboard instead of the GPU.
+    * Verify cable connections; ensure all are securely in place.
+    * Attempt taking out the GPU, cleaning the pins, and blowing out all dust etc then reinserting the GPU.
+    * Troubleshoot RAM issues; try booting with 1 or 2 RAM sticks, testing different sticks as one may be faulty.
+    * Clear the CMOS.
+    * If the motherboard is potentially bricked, update the UEFI/BIOS by placing a fresh image on a flash drive. Connect it to the Flash BIOS port in the I/O port area and use the Flash BIOS Button if available. If you don't have this option, you will have to aquire a new motherboard.
+    * If possible, check how the GPU acts in another currently working system.
 
 
 ## Personal Preference
