@@ -63,8 +63,29 @@
 * [LiCB](https://www.amazon.com/dp/B071D4DKTZ)
 * [Energizer](https://www.amazon.com/dp/B0002RID4G)
 
-
-
+## Clear/Reset CMOS Methods
+* CMOS Reset Button (if available):
+  * Some motherboards have a dedicated CMOS reset button.
+  * Locate the button on the motherboard.
+  * Power off the computer and press the button for a few seconds.
+* Jumper Method:
+  * Locate the CMOS jumper on the motherboard.
+  * Power off the computer.
+  * Move the jumper from its default position to the clear position.
+  * Wait for a few seconds, then move the jumper back to its original position.
+* Battery Removal:
+  * Power off the computer and disconnect it from the power source.
+  * Locate the CMOS battery on the motherboard.
+  * Remove the CMOS battery carefully.
+  * Wait for about 5-10 minutes, then reinsert the battery.
+* Power Drain Method:
+  * Power off the computer and unplug it.
+  * Press and hold the power button for 15-20 seconds.
+  * Reconnect the power and turn on the computer.
+* BIOS/UEFI Settings:
+  * Enter the BIOS/UEFI settings during system boot (usually by pressing DEL, F2, or another key).
+  * Navigate to the "Reset to default" or "Load optimized defaults" option.
+  * Save changes and exit.
 
 
 ## Personal Preference
