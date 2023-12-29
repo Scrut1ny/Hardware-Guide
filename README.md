@@ -108,6 +108,7 @@
     * Clear the CMOS.
     * If the motherboard is potentially bricked, update the UEFI/BIOS by placing a fresh image on a flash drive. Connect it to the Flash BIOS port in the I/O port area and use the Flash BIOS Button if available. If you don't have this option, you will have to aquire a new motherboard.
     * If possible, check how the GPU acts in another currently working system.
+    * [NVIDIA GPU Firmware Update Tool for DisplayID](https://nvidia.custhelp.com/app/answers/detail/a_id/5233/~/nvidia-gpu-firmware-update-tool-for-displayid) - [Download Link](https://us.download.nvidia.com/Windows/uefi/firmware/1.1/NVIDIA_DisplayID_Firmware_Updater_1.1-x64.exe)
 
 
 ## Personal Preference
