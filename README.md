@@ -97,6 +97,14 @@
 * 🟩 BOOT
   * indicates the booting device is not detected or fail.
 
+# ===== GPU (Graphics Processing Unit) =====
+
+# ===== Storage =====
+
+## Adapters
+* [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B00ITJ7U20)
+* [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B01N6PMZLW)
+
 # ===== Troubleshooting =====
 
 * Issue: "EZ Debug LED" shows/displays the "VGA" LED light - No display and "failure to boot into UEFI/BIOS."
