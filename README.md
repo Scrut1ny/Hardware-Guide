@@ -111,7 +111,7 @@
 
 ## Physical Connections
 * ISP (Coax) --> MoCA Converter/Adapter --> Router
-* ISP (Fiber) --> Fiber to Ethernet Converter/Adapter --> Router
+* ISP (SFP/Fiber) --> SFP/Fiber to RJ45/Ethernet Converter/Adapter --> Router
 
 # ===== Storage =====
 
