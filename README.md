@@ -99,6 +99,20 @@
 
 # ===== GPU (Graphics Processing Unit) =====
 
+# ===== Router =====
+
+## Firmware
+* [pfsense](https://www.pfsense.org/)
+  * Addon: pfBlocker-NG
+* [OpenWrt](https://openwrt.org/)
+
+## Software
+* [Pi-hole](https://pi-hole.net/)
+
+## Physical Connections
+* ISP (Coax) --> MoCA Adapter --> Router
+* ISP (Fiber) --> Fiber to Ethernet Adapter --> Router
+
 # ===== Storage =====
 
 ## Adapters
