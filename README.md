@@ -110,8 +110,8 @@
 * [Pi-hole](https://pi-hole.net/)
 
 ## Physical Connections
-* ISP (Coax) --> MoCA Adapter --> Router
-* ISP (Fiber) --> Fiber to Ethernet Adapter --> Router
+* ISP (Coax) --> MoCA Converter/Adapter --> Router
+* ISP (Fiber) --> Fiber to Ethernet Converter/Adapter --> Router
 
 # ===== Storage =====
 
