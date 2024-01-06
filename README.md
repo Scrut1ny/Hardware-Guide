@@ -116,8 +116,10 @@
 # ===== Storage =====
 
 ## Adapters
-* [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B00ITJ7U20)
-* [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B01N6PMZLW)
+* M.2 SATA SSD to 2.5" SATA
+  * [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B00ITJ7U20)
+  * [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B01N6PMZLW)
+* M.2 NVMe SSD to 2.5" SATA
 
 # ===== Troubleshooting =====
 
