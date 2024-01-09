@@ -59,6 +59,21 @@
 | GPUs | Up to 1 | Up to 3 | Up to 4 |
 | SATA ports | Up to 6 | Up to 8 | Up to 12 |
 
+## BIOS/UEFI Flashback (USB)
+* Brick Recovery: Utilize BIOS/UEFI Flashback with a formatted USB containing a compatible BIOS/UEFI to revive a bricked motherboard.
+* Steps
+  * USB Setup:
+    * Format USB to FAT32.
+    * Download latest BIOS.
+    * Save to USB root.
+  * Flashback:
+    * Power off.
+    * Insert USB.
+    * Press & hold Flashback button.
+  * Wait & Power On:
+    * Wait for process.
+    * Power on; check updated BIOS.
+
 ## CMOS Battery (CR2032 3V Lithium Battery)
 * [LiCB](https://www.amazon.com/dp/B071D4DKTZ)
 * [Energizer](https://www.amazon.com/dp/B0002RID4G)
