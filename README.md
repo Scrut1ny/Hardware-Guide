@@ -123,6 +123,8 @@
 
 ## Software
 * [Pi-hole](https://pi-hole.net/)
+  * [Pi-hole Lists](https://firebog.net/)
+  * [YT Guide](https://www.youtube.com/watch?v=0wpn3rXTe0g)
 
 ## Physical Connections
 * ISP (Coax) --> MoCA Converter/Adapter --> Router
