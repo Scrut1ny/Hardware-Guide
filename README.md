@@ -141,6 +141,21 @@
   * [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B01N6PMZLW)
 * M.2 NVMe SSD to 2.5" SATA
 
+# ===== [Blu-ray/DVD/CD/M-Disc] [R/W] Drive =====
+* Ripping Media
+    * YT Guide - [Link](https://youtu.be/S2yze4DUCT0) 
+    * Software
+        * MakeMKV (v1.17.5) - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.5.exe)
+            * Current Beta Key: `T-YIPPz6Z8MFlFJkPA4YTnwcNGX5IU1AqAJdQi8akyG8m2AXqWm9sfuqXmFYScGcfDw8`
+        * SDFtool Flasher (v1.3.5) - [Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
+            * "All You Need Firmware Pack" - [Download ⬇️](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+        * HandBrake (1.7.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+    * Hardware
+        * [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
+        * [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
+        * [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+        * [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
+
 # ===== Troubleshooting =====
 
 * Issue: "EZ Debug LED" shows/displays the "VGA" LED light - No display and "failure to boot into UEFI/BIOS."
