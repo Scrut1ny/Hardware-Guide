@@ -141,7 +141,7 @@
   * [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B01N6PMZLW)
 * M.2 NVMe SSD to 2.5" SATA
 
-# ===== [Blu-ray/DVD/CD/M-Disc] [R/W] Drive =====
+# ===== Blu-ray/DVD/CD/M-Disc R/W Drive =====
 * Ripping Media
     * YT Guide - [Link](https://youtu.be/S2yze4DUCT0) 
     * Software
