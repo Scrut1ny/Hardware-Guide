@@ -152,14 +152,14 @@
     * HandBrake (1.7.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
   * Optical Drives
     * [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
-      * [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
-      * [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
-      * [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
+    * [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
+    * [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+    * [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
   * External Enclosures
-    * [NexStar DX2](https://www.amazon.com/dp/B09SS74KCN)
+    * [#1 - NexStar DX2](https://www.amazon.com/dp/B09SS74KCN)
       * [NexStar](https://www.amazon.com/dp/B07452Z3KH)
-    * [NexStar DX](https://www.amazon.com/dp/B01MRUN0HQ)
-    * [OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)
+    * [#2 - NexStar DX](https://www.amazon.com/dp/B01MRUN0HQ)
+    * [#3 - OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)
 
 # ===== Troubleshooting =====
 
