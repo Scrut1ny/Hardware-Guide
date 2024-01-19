@@ -1,4 +1,4 @@
-# General Information
+## General Information
 
 <details>
 <summary>Electronics Store Websites</summary>
@@ -9,7 +9,7 @@
 
 </details>
 
-# Troubleshooting and Maintenance
+## Troubleshooting and Maintenance
 
 <details>
 <summary>Cleaning Computer Parts</summary>
@@ -272,7 +272,7 @@ Save changes and exit.
 
 </details>
 
-# Networking
+## Networking
 
 <details>
 <summary>Router</summary>
@@ -305,7 +305,7 @@ Save changes and exit.
 
 </details>
 
-# Internet Service Provider (ISP)
+## Internet Service Provider (ISP)
 
 <details>
 <summary>Common Scams</summary>
@@ -336,7 +336,7 @@ Save changes and exit.
 
 </details>
 
-# Troubleshooting
+## Troubleshooting
 
 <details>
 <summary>EZ Debug LED shows "VGA" LED light - No display and failure to boot into UEFI/BIOS</summary>
