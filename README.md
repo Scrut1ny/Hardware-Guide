@@ -1,5 +1,7 @@
+# Electronics Store Websites
+
 <details>
-<summary>Electronics Store Websites</summary>
+<summary>Stores</summary>
 
 - [newegg](https://www.newegg.com/)
 - [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
