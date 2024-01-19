@@ -1,7 +1,7 @@
-# Electronics Store Websites
+# General Information
 
 <details>
-<summary>Stores</summary>
+<summary>Electronics Store Websites</summary>
 
 - [newegg](https://www.newegg.com/)
 - [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
@@ -9,14 +9,12 @@
 
 </details>
 
-
-
-
-
-# Cleaning Computer Parts
+# Troubleshooting and Maintenance
 
 <details>
-<summary>Isopropyl Alcohol</summary>
+<summary>Cleaning Computer Parts</summary>
+
+## Isopropyl Alcohol
 
 **Usage:**
 - Ideal for cleaning electronic components, including CPUs, GPUs, and connectors.
@@ -36,15 +34,18 @@
 <details>
 <summary>Compressed Air</summary>
 
-**Usage:**
+## Usage
+
 - Effective for removing dust from hard-to-reach areas, fans, and heat sinks.
 
-**Application:**
+## Application
+
 1. Hold fans in place to prevent them from spinning during cleaning.
 2. Use short bursts of compressed air to blow away dust.
 3. Pay attention to vents, heatsinks, and other components with dust buildup.
 
-**Note:**
+## Note
+
 - Use the compressed air in a well-ventilated area.
 - Hold fans in place to prevent them from spinning during cleaning.
 
@@ -53,15 +54,18 @@
 <details>
 <summary>Cotton Swabs</summary>
 
-**Usage:**
+## Usage
+
 - Useful for detailed cleaning of small components and connectors.
 
-**Application:**
+## Application
+
 1. Dampen the cotton swab with isopropyl alcohol.
 2. Gently clean connectors, ports, and other small components.
 3. Dispose of swabs after use to prevent cross-contamination.
 
-**Note:**
+## Note
+
 - Be gentle to avoid damaging delicate components.
 - Use a new swab for each cleaning session.
 
@@ -70,27 +74,28 @@
 <details>
 <summary>Lint-Free Cloths</summary>
 
-**Usage:**
+## Usage
+
 - Suitable for wiping down surfaces without leaving lint or fibers.
 
-**Application:**
+## Application
+
 1. Dampen the lint-free cloth with isopropyl alcohol.
 2. Wipe down surfaces, including the exterior of the computer case.
 3. Ensure thorough drying before reassembly.
 
-**Note:**
+## Note
+
 - Avoid using regular paper towels, as they may leave debris.
 
 </details>
 
-
-
-
-
-# CPU (Processor)
+# Computer Components
 
 <details>
-<summary>Intel® Core™ Processor Suffixes and Processor Names</summary>
+<summary>CPU (Processor)</summary>
+
+## Intel® Core™ Processor Suffixes and Processor Names
 
 * [Intel® Core™ Processor Suffixes](https://www.intel.com/content/www/us/en/support/articles/000058567/processors/intel-core-processors.html)
 * [Intel® Processor Names and Numbers](https://www.intel.com/content/www/us/en/processors/processor-numbers.html)
@@ -149,14 +154,10 @@
 
 </details>
 
-
-
-
-
-# Motherboard
-
 <details>
-<summary>Form Factors</summary>
+<summary>Motherboard</summary>
+
+## Form Factors
 
 |  | Mini-ITX | MicroATX | ATX |
 |-|-|-|-|
@@ -247,20 +248,17 @@ Save changes and exit.
 
 </details>
 
+<details>
+<summary>GPU (Graphics Processing Unit)</summary>
 
+<!-- Incomplete section -->
 
-
-
-# GPU (Graphics Processing Unit)
-
-
-
-
-
-# Storage
+</details>
 
 <details>
-<summary>Adapters</summary>
+<summary>Storage</summary>
+
+## Adapters
 
 * **M.2 SATA SSD to 2.5" SATA**
   * [Adapter #1](https://www.amazon.com/dp/B00ITJ7U20)
@@ -271,14 +269,10 @@ Save changes and exit.
 
 </details>
 
-
-
-
-
-# Disc Drive Components
-
 <details>
-<summary>Ripping Media</summary>
+<summary>Disc Drive Components</summary>
+
+## Ripping Media
 
 * **YT Guide - [Link](https://youtu.be/S2yze4DUCT0)**
 * **Software**
@@ -313,14 +307,12 @@ Save changes and exit.
 
 </details>
 
-
-
-
-
-# Router
+# Networking
 
 <details>
-<summary>Firmware</summary>
+<summary>Router</summary>
+
+## Firmware
 
 * **[pfSense](https://www.pfsense.org/)**
   * Addon: pfBlocker-NG
@@ -348,11 +340,7 @@ Save changes and exit.
 
 </details>
 
-
-
-
-
-# ISP (Internet Service Provider)
+# Internet Service Provider (ISP)
 
 <details>
 <summary>Common Scams</summary>
@@ -383,10 +371,6 @@ Save changes and exit.
 
 </details>
 
-
-
-
-
 # Troubleshooting
 
 <details>
@@ -404,8 +388,6 @@ Save changes and exit.
 - [NVIDIA GPU Firmware Update Tool for DisplayID](https://nvidia.custhelp.com/app/answers/detail/a_id/5233/~/nvidia-gpu-firmware-update-tool-for-displayid) - [Download Link](https://us.download.nvidia.com/Windows/uefi/firmware/1.1/NVIDIA_DisplayID_Firmware_Updater_1.1-x64.exe)
 
 </details>
-
-
 
 
 
