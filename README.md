@@ -60,49 +60,86 @@
 | SATA ports | Up to 6 | Up to 8 | Up to 12 |
 
 ## BIOS/UEFI Flashback (USB)
-* Brick Recovery: Utilize BIOS/UEFI Flashback with a formatted USB containing a compatible BIOS/UEFI to revive a bricked motherboard.
-* Steps
-  * USB Setup:
-    * Format USB to FAT32.
-    * Download latest BIOS.
-    * Save to USB root.
-  * Flashback:
-    * Power off.
-    * Insert USB.
-    * Press & hold Flashback button.
-  * Wait & Power On:
-    * Wait for process.
-    * Power on; check updated BIOS.
+
+<details>
+<summary>Brick Recovery</summary>
+
+Utilize BIOS/UEFI Flashback with a formatted USB containing a compatible BIOS/UEFI to revive a bricked motherboard.
+
+### Steps
+
+* **USB Setup:**
+  * Format USB to FAT32.
+  * Download latest BIOS.
+  * Save to USB root.
+
+* **Flashback:**
+  * Power off.
+  * Insert USB.
+  * Press & hold Flashback button.
+
+* **Wait & Power On:**
+  * Wait for the process.
+  * Power on; check updated BIOS.
+
+</details>
 
 ## CMOS Battery (CR2032 3V Lithium Battery)
+
 * [LiCB](https://www.amazon.com/dp/B071D4DKTZ)
 * [Energizer](https://www.amazon.com/dp/B0002RID4G)
 
 ## Clear/Reset CMOS Methods
-* CMOS Reset Button (if available):
-  * Some motherboards have a dedicated CMOS reset button.
-  * Locate the button on the motherboard.
-  * Power off the computer and press the button for a few seconds.
-* Jumper Method:
-  * Locate the CMOS jumper on the motherboard.
-  * Power off the computer.
-  * Move the jumper from its default position to the clear position.
-  * Wait for a few seconds, then move the jumper back to its original position.
-* Battery Removal:
-  * Power off the computer and disconnect it from the power source.
-  * Locate the CMOS battery on the motherboard.
-  * Remove the CMOS battery carefully.
-  * Wait for about 5-10 minutes, then reinsert the battery.
-* Power Drain Method:
-  * Power off the computer and unplug it.
-  * Press and hold the power button for 15-20 seconds.
-  * Reconnect the power and turn on the computer.
-* BIOS/UEFI Settings:
-  * Enter the BIOS/UEFI settings during system boot (usually by pressing DEL, F2, or another key).
-  * Navigate to the "Reset to default" or "Load optimized defaults" option.
-  * Save changes and exit.
+
+<details>
+<summary>CMOS Reset Button (if available)</summary>
+
+Some motherboards have a dedicated CMOS reset button.
+Locate the button on the motherboard.
+Power off the computer and press the button for a few seconds.
+
+</details>
+
+<details>
+<summary>Jumper Method</summary>
+
+Locate the CMOS jumper on the motherboard.
+Power off the computer.
+Move the jumper from its default position to the clear position.
+Wait for a few seconds, then move the jumper back to its original position.
+
+</details>
+
+<details>
+<summary>Battery Removal</summary>
+
+Power off the computer and disconnect it from the power source.
+Locate the CMOS battery on the motherboard.
+Remove the CMOS battery carefully.
+Wait for about 5-10 minutes, then reinsert the battery.
+
+</details>
+
+<details>
+<summary>Power Drain Method</summary>
+
+Power off the computer and unplug it.
+Press and hold the power button for 15-20 seconds.
+Reconnect the power and turn on the computer.
+
+</details>
+
+<details>
+<summary>BIOS/UEFI Settings</summary>
+
+Enter the BIOS/UEFI settings during system boot (usually by pressing DEL, F2, or another key).
+Navigate to the "Reset to default" or "Load optimized defaults" option.
+Save changes and exit.
+
+</details>
 
 ## EZ Debug LED
+
 * 🟥 CPU
   * indicates CPU is not detected or fail.
 * 🟨 DRAM
@@ -112,42 +149,77 @@
 * 🟩 BOOT
   * indicates the booting device is not detected or fail.
 
-# ===== GPU (Graphics Processing Unit) =====
 
 
-# ===== Storage =====
 
-## Adapters
-* M.2 SATA SSD to 2.5" SATA
-  * [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B00ITJ7U20)
-  * [M.2 SATA SSD to 2.5" SATA](https://www.amazon.com/dp/B01N6PMZLW)
-* M.2 NVMe SSD to 2.5" SATA
 
-# ===== Blu-ray/DVD/CD/M-Disc R/W Drive =====
-* Ripping Media
-  * YT Guide - [Link](https://youtu.be/S2yze4DUCT0) 
-  * Software
-    * MakeMKV (v1.17.5) - [Website](https://makemkv.com/) - [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.5.exe)
-      * [Current Beta Key](https://forum.makemkv.com/forum/viewtopic.php?t=1053): `T-ocdqxyxgcXfTChWA2wWkv9P0QVVolgkD3GyOgZ1Z30p7t1Fm14kPcT5eIAYEneuDBx`
-      * SDFtool Flasher (v1.3.5) - [Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
-      * "All You Need Firmware Pack" - [Download ⬇️](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
-    * HandBrake (1.7.2) - [Website](https://handbrake.fr/) - [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
-  * Optical Drives
-    * [#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)
-    * [#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)
-    * [#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
-    * [#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)
-  * External Enclosures
-    * [#1 - NexStar DX2](https://www.amazon.com/dp/B09SS74KCN)
-      * [NexStar](https://www.amazon.com/dp/B07452Z3KH)
-    * [#2 - NexStar DX](https://www.amazon.com/dp/B01MRUN0HQ)
-    * [#3 - OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)
+## ===== GPU (Graphics Processing Unit) =====
 
 
 
 
 
-# Router
+## ===== Storage =====
+
+<details>
+<summary>Adapters</summary>
+
+* **M.2 SATA SSD to 2.5" SATA**
+  * [Adapter #1](https://www.amazon.com/dp/B00ITJ7U20)
+  * [Adapter #2](https://www.amazon.com/dp/B01N6PMZLW)
+
+* **M.2 NVMe SSD to 2.5" SATA**
+  * [Adapter](#)  <!-- Replace # with the actual link if available -->
+
+</details>
+
+
+
+
+
+## ===== Blu-ray/DVD/CD/M-Disc R/W Drive =====
+
+<details>
+<summary>Ripping Media</summary>
+
+* **YT Guide - [Link](https://youtu.be/S2yze4DUCT0)**
+* **Software**
+  * **[MakeMKV (v1.17.5)](https://makemkv.com/)**
+    * [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.5.exe)
+    * [Current Beta Key](https://forum.makemkv.com/forum/viewtopic.php?t=1053): `T-ocdqxyxgcXfTChWA2wWkv9P0QVVolgkD3GyOgZ1Z30p7t1Fm14kPcT5eIAYEneuDBx`
+    * [SDFtool Flasher (v1.3.5) - Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
+    * ["All You Need Firmware Pack" - Download ⬇️](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+  * **[HandBrake (1.7.2)](https://handbrake.fr/)**
+    * [Website](https://handbrake.fr/)
+    * [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+
+</details>
+
+<details>
+<summary>Optical Drives</summary>
+
+* **[#1 - LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS)**
+* **[#2 - LG WH14NS40](https://www.amazon.com/dp/B007VPGL5U)**
+* **[#3 - ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)**
+* **[#4 - ASUS BW-16D1X-U](https://www.amazon.com/dp/B071VP89X1)**
+
+</details>
+
+<details>
+<summary>External Enclosures</summary>
+
+* **[#1 - NexStar DX2](https://www.amazon.com/dp/B09SS74KCN)**
+  * [NexStar](https://www.amazon.com/dp/B07452Z3KH)
+* **[#2 - NexStar DX](https://www.amazon.com/dp/B01MRUN0HQ)**
+* **[#3 - OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)**
+
+</details>
+
+
+
+
+
+## Router
 
 <details>
 <summary>Firmware</summary>
@@ -182,7 +254,7 @@
 
 
 
-# ISP (Internet Service Provider)
+## ISP (Internet Service Provider)
 
 <details>
 <summary>Common Scams</summary>
@@ -217,7 +289,7 @@
 
 
 
-# ===== Troubleshooting =====
+## ===== Troubleshooting =====
 
 * Issue: "EZ Debug LED" shows/displays the "VGA" LED light - No display and "failure to boot into UEFI/BIOS."
   * Solutions:
