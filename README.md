@@ -90,7 +90,7 @@
 
 </details>
 
-# Computer Components
+## Computer Components
 
 <details>
 <summary>CPU (Processor)</summary>
