@@ -177,7 +177,7 @@ Save changes and exit.
 
 
 
-## GPU (Graphics Processing Unit)
+# GPU (Graphics Processing Unit)
 
 
 
