@@ -356,7 +356,7 @@ Save changes and exit.
 
 
 
-# Personal Preference
+## Personal Preference
 | GAMING | PROFESSIONAL | ULTRABOOK |
 |-|-|-|
 | 🪫 Short Battery Life | 🪫 Short Battery Life | 🔋 Long Battery Life |
