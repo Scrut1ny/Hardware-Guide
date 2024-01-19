@@ -143,26 +143,46 @@
     * [#2 - NexStar DX](https://www.amazon.com/dp/B01MRUN0HQ)
     * [#3 - OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)
 
-# ===== Router =====
 
-## Firmware
-* [pfsense](https://www.pfsense.org/)
+
+
+
+# Router
+
+<details>
+<summary>Firmware</summary>
+
+* **[pfSense](https://www.pfsense.org/)**
   * Addon: pfBlocker-NG
-* [OpenWrt](https://openwrt.org/)
+* **[OpenWrt](https://openwrt.org/)**
 
-## Software
-* [Pi-hole](https://pi-hole.net/)
+</details>
+
+<details>
+<summary>Software</summary>
+
+* **[Pi-hole](https://pi-hole.net/)**
   * [Pi-hole Lists](https://firebog.net/)
   * [YT Guide](https://www.youtube.com/watch?v=0wpn3rXTe0g)
 
-## Physical Connections
-* ISP (Coax) --> MoCA Converter/Adapter --> Router
-* ISP (SFP/Fiber) --> SFP/Fiber to RJ45/Ethernet Converter/Adapter --> Router
+</details>
 
-* Converter/Adapters
+<details>
+<summary>Physical Connections</summary>
+
+* **ISP (Coax) --> MoCA Converter/Adapter --> Router**
+* **ISP (SFP/Fiber) --> SFP/Fiber to RJ45/Ethernet Converter/Adapter --> Router**
+
+* **Converter/Adapters**
   * [ScreenBeam Bonded MoCA 2.0 Network Adapter](https://www.amazon.com/dp/B013J7OBUU)
- 
-# ===== ISP (Internet Service Provider) =====
+
+</details>
+
+
+
+
+
+# ISP (Internet Service Provider)
 
 <details>
 <summary>Common Scams</summary>
@@ -192,6 +212,10 @@
   In areas with limited ISP options, companies may not feel the pressure to provide competitive pricing or improved services, leaving users with fewer alternatives.
 
 </details>
+
+
+
+
 
 # ===== Troubleshooting =====
 
