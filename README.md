@@ -162,16 +162,36 @@
 * Converter/Adapters
   * [ScreenBeam Bonded MoCA 2.0 Network Adapter](https://www.amazon.com/dp/B013J7OBUU)
  
-# ===== ISP (Internet Service Provider ) =====
-* Common Scams
-  * `MBps and Mbps Deception`: ISPs may deceive users by advertising Mbps (Megabits per second) instead of MBps (Megabytes per second), which is eight times smaller. This can lead to confusion about actual internet speeds. Be vigilant and read the fine print for informed decisions.
-  * `Introductory Rates`: ISPs often offer attractive introductory rates that later increase significantly. Users may sign up for a seemingly affordable plan, only to face higher bills after the initial period.
-  * `Hidden Fees`: Additional fees, such as equipment rental charges or installation fees, may not be clearly disclosed upfront, contributing to unexpected costs for users.
-  * `Data Caps`: Some ISPs impose data caps on users, limiting the amount of data they can use each month. These caps may not be prominently highlighted, leading to unexpected overage charges.
-  * `Throttling`: ISPs may engage in data throttling, slowing down internet speeds for specific activities like streaming or file sharing. This practice might not be clearly communicated to users.
-  * `Unreliable Speed Guarantees`: Speed guarantees in ISP contracts may come with disclaimers, allowing for variations in service. Users may not receive the consistently high speeds they expect.
-  * `Contract Lengths`: Long-term contracts with hefty termination fees can lock users into agreements without adequate flexibility. Clear information about contract terms may be buried in the fine print.
-  * `Limited Competition`: In areas with limited ISP options, companies may not feel the pressure to provide competitive pricing or improved services, leaving users with fewer alternatives.
+# ===== ISP (Internet Service Provider) =====
+
+<details>
+<summary>Common Scams</summary>
+
+* **MBps and Mbps Deception:**
+  ISPs may deceive users by advertising Mbps (Megabits per second) instead of MBps (Megabytes per second), which is eight times smaller. This can lead to confusion about actual internet speeds. Be vigilant and read the fine print for informed decisions.
+
+* **Introductory Rates:**
+  ISPs often offer attractive introductory rates that later increase significantly. Users may sign up for a seemingly affordable plan, only to face higher bills after the initial period.
+
+* **Hidden Fees:**
+  Additional fees, such as equipment rental charges or installation fees, may not be clearly disclosed upfront, contributing to unexpected costs for users.
+
+* **Data Caps:**
+  Some ISPs impose data caps on users, limiting the amount of data they can use each month. These caps may not be prominently highlighted, leading to unexpected overage charges.
+
+* **Throttling:**
+  ISPs may engage in data throttling, slowing down internet speeds for specific activities like streaming or file sharing. This practice might not be clearly communicated to users.
+
+* **Unreliable Speed Guarantees:**
+  Speed guarantees in ISP contracts may come with disclaimers, allowing for variations in service. Users may not receive the consistently high speeds they expect.
+
+* **Contract Lengths:**
+  Long-term contracts with hefty termination fees can lock users into agreements without adequate flexibility. Clear information about contract terms may be buried in the fine print.
+
+* **Limited Competition:**
+  In areas with limited ISP options, companies may not feel the pressure to provide competitive pricing or improved services, leaving users with fewer alternatives.
+
+</details>
 
 # ===== Troubleshooting =====
 
