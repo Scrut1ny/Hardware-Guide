@@ -201,7 +201,7 @@ Save changes and exit.
 
 
 
-## Blu-ray/DVD/CD/M-Disc R/W Drive
+# Disc Drive Components
 
 <details>
 <summary>Ripping Media</summary>
