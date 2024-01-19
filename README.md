@@ -95,14 +95,6 @@
 <details>
 <summary>CPU (Processor)</summary>
 
-## Intel® Core™ Processor Suffixes and Processor Names
-
-* [Intel® Core™ Processor Suffixes](https://www.intel.com/content/www/us/en/support/articles/000058567/processors/intel-core-processors.html)
-* [Intel® Processor Names and Numbers](https://www.intel.com/content/www/us/en/processors/processor-numbers.html)
-* [AMD Ryzen CPU Names](https://www.howtogeek.com/all-the-letters-in-amd-ryzen-cpu-names-explained/)
-
-</details>
-
 <details>
 <summary>Processor Breakdown (Example)</summary>
 
@@ -154,21 +146,10 @@
 
 </details>
 
+</details>
+
 <details>
 <summary>Motherboard</summary>
-
-## Form Factors
-
-|  | Mini-ITX | MicroATX | ATX |
-|-|-|-|-|
-| Size | 9.0 x 7.5 inches | 9.6 x 9.6 inches | 12 x 9.6 inches |
-| Expansion Slots | 1 | 4 | 7 |
-| RAM | DIMM | DIMM | DIMM |
-| RAM Slots | 2 | Up to 4 | Up to 8 |
-| GPUs | Up to 1 | Up to 3 | Up to 4 |
-| SATA ports | Up to 6 | Up to 8 | Up to 12 |
-
-</details>
 
 <details>
 <summary>BIOS/UEFI Flashback (USB)</summary>
@@ -248,31 +229,13 @@ Save changes and exit.
 
 </details>
 
-<details>
-<summary>GPU (Graphics Processing Unit)</summary>
-
-<!-- Incomplete section -->
-
-</details>
-
-<details>
-<summary>Storage</summary>
-
-## Adapters
-
-* **M.2 SATA SSD to 2.5" SATA**
-  * [Adapter #1](https://www.amazon.com/dp/B00ITJ7U20)
-  * [Adapter #2](https://www.amazon.com/dp/B01N6PMZLW)
-
-* **M.2 NVMe SSD to 2.5" SATA**
-  * [Adapter](#)  <!-- Replace # with the actual link if available -->
-
 </details>
 
 <details>
 <summary>Disc Drive Components</summary>
 
-## Ripping Media
+<details>
+<summary>Ripping Media</summary>
 
 * **YT Guide - [Link](https://youtu.be/S2yze4DUCT0)**
 * **Software**
@@ -304,6 +267,8 @@ Save changes and exit.
   * [NexStar](https://www.amazon.com/dp/B07452Z3KH)
 * **[#2 - NexStar DX](https://www.amazon.com/dp/B01MRUN0HQ)**
 * **[#3 - OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)**
+
+</details>
 
 </details>
 
