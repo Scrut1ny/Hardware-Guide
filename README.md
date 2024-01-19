@@ -1,25 +1,45 @@
-## Electronics Store Websites
-* [newegg](https://www.newegg.com/)
-* [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
-* [Micro Center](https://www.microcenter.com/)
+<details>
+<summary>Electronics Store Websites</summary>
 
-# ===== CPU (Processor) =====
+- [newegg](https://www.newegg.com/)
+- [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
+- [Micro Center](https://www.microcenter.com/)
+
+</details>
+
+
+
+
+
+# CPU (Processor)
+
+<details>
+<summary>Intel® Core™ Processor Suffixes and Processor Names</summary>
+
 * [Intel® Core™ Processor Suffixes](https://www.intel.com/content/www/us/en/support/articles/000058567/processors/intel-core-processors.html)
 * [Intel® Processor Names and Numbers](https://www.intel.com/content/www/us/en/processors/processor-numbers.html)
 * [AMD Ryzen CPU Names](https://www.howtogeek.com/all-the-letters-in-amd-ryzen-cpu-names-explained/)
 
-## Processor Breakdown (Example)
-* Core i7-11800H
+</details>
+
+<details>
+<summary>Processor Breakdown (Example)</summary>
+
+* **Core i7-11800H**
   * i7 = High-Performance Series/Tier
   * 11 = 11th Generaton
   * 800 = Specific Model #
   * H = High Performance
-* Ryzen 7 5800X
+* **Ryzen 7 5800X**
   * 7 = 7th Generation (Note: AMD Ryzen processors don't strictly follow a numeric generation naming convention like Intel)
   * 5800 = Specific Model #
   * X = High-Performance Desktop Processor
 
-## Processor Overview
+</details>
+
+<details>
+<summary>Processor Overview</summary>
+
 | Tier     | Intel          | AMD             | Description                               | Average Price Range      | Power Consumption Range  |
 |----------|----------------|-----------------|-------------------------------------------|--------------------------|--------------------------|
 | Entry    | Core i3         | Ryzen 3         | Budget-Friendly                           | $100 - $200              | Low to Moderate          |
@@ -27,7 +47,11 @@
 | High-Perf| Core i7         | Ryzen 7         | High-Performance                          | $300 - $500              | Moderate-High            |
 | Enthusiast| Core i9        | Ryzen 9         | Enthusiast and High-End Performance       | $500 - $1000+            | High                     |
 
-## Processor Suffixes Reference
+</details>
+
+<details>
+<summary>Processor Suffixes Reference</summary>
+
 | Suffix  | Intel Description                                     | AMD Description                                      |
 |---------|-------------------------------------------------------|-------------------------------------------------------|
 | U       | Ultra-Low Power                                       | Ultra-Low Power                                       |
@@ -47,9 +71,17 @@
 | S       | Special Edition                                       | -                                                     |
 | -       | -                                                     | Special Edition                                       |
 
-# ===== Motherboard =====
+</details>
 
-## Form Factors
+
+
+
+
+# Motherboard
+
+<details>
+<summary>Form Factors</summary>
+
 |  | Mini-ITX | MicroATX | ATX |
 |-|-|-|-|
 | Size | 9.0 x 7.5 inches | 9.6 x 9.6 inches | 12 x 9.6 inches |
@@ -59,11 +91,12 @@
 | GPUs | Up to 1 | Up to 3 | Up to 4 |
 | SATA ports | Up to 6 | Up to 8 | Up to 12 |
 
-## BIOS/UEFI Flashback (USB)
+</details>
 
 <details>
-<summary>Brick Recovery</summary>
+<summary>BIOS/UEFI Flashback (USB)</summary>
 
+**Brick Recovery:**
 Utilize BIOS/UEFI Flashback with a formatted USB containing a compatible BIOS/UEFI to revive a bricked motherboard.
 
 ### Steps
@@ -84,61 +117,48 @@ Utilize BIOS/UEFI Flashback with a formatted USB containing a compatible BIOS/UE
 
 </details>
 
-## CMOS Battery (CR2032 3V Lithium Battery)
+<details>
+<summary>CMOS Battery (CR2032 3V Lithium Battery)</summary>
 
 * [LiCB](https://www.amazon.com/dp/B071D4DKTZ)
 * [Energizer](https://www.amazon.com/dp/B0002RID4G)
 
-## Clear/Reset CMOS Methods
+</details>
 
 <details>
-<summary>CMOS Reset Button (if available)</summary>
+<summary>Clear/Reset CMOS Methods</summary>
 
+**CMOS Reset Button (if available):**
 Some motherboards have a dedicated CMOS reset button.
 Locate the button on the motherboard.
 Power off the computer and press the button for a few seconds.
 
-</details>
-
-<details>
-<summary>Jumper Method</summary>
-
+**Jumper Method:**
 Locate the CMOS jumper on the motherboard.
 Power off the computer.
 Move the jumper from its default position to the clear position.
 Wait for a few seconds, then move the jumper back to its original position.
 
-</details>
-
-<details>
-<summary>Battery Removal</summary>
-
+**Battery Removal:**
 Power off the computer and disconnect it from the power source.
 Locate the CMOS battery on the motherboard.
 Remove the CMOS battery carefully.
 Wait for about 5-10 minutes, then reinsert the battery.
 
-</details>
-
-<details>
-<summary>Power Drain Method</summary>
-
+**Power Drain Method:**
 Power off the computer and unplug it.
 Press and hold the power button for 15-20 seconds.
 Reconnect the power and turn on the computer.
 
-</details>
-
-<details>
-<summary>BIOS/UEFI Settings</summary>
-
+**BIOS/UEFI Settings:**
 Enter the BIOS/UEFI settings during system boot (usually by pressing DEL, F2, or another key).
 Navigate to the "Reset to default" or "Load optimized defaults" option.
 Save changes and exit.
 
 </details>
 
-## EZ Debug LED
+<details>
+<summary>EZ Debug LED</summary>
 
 * 🟥 CPU
   * indicates CPU is not detected or fail.
@@ -149,17 +169,19 @@ Save changes and exit.
 * 🟩 BOOT
   * indicates the booting device is not detected or fail.
 
-
-
-
-
-## ===== GPU (Graphics Processing Unit) =====
+</details>
 
 
 
 
 
-## ===== Storage =====
+## GPU (Graphics Processing Unit)
+
+
+
+
+
+## Storage
 
 <details>
 <summary>Adapters</summary>
@@ -177,7 +199,7 @@ Save changes and exit.
 
 
 
-## ===== Blu-ray/DVD/CD/M-Disc R/W Drive =====
+## Blu-ray/DVD/CD/M-Disc R/W Drive
 
 <details>
 <summary>Ripping Media</summary>
@@ -219,7 +241,7 @@ Save changes and exit.
 
 
 
-## Router
+# Router
 
 <details>
 <summary>Firmware</summary>
@@ -254,7 +276,7 @@ Save changes and exit.
 
 
 
-## ISP (Internet Service Provider)
+# ISP (Internet Service Provider)
 
 <details>
 <summary>Common Scams</summary>
@@ -289,21 +311,29 @@ Save changes and exit.
 
 
 
-## ===== Troubleshooting =====
+# Troubleshooting
 
-* Issue: "EZ Debug LED" shows/displays the "VGA" LED light - No display and "failure to boot into UEFI/BIOS."
-  * Solutions:
-    * Check if your CPU supports iGPU (Integrated Graphics); attempt to get output from the motherboard instead of the GPU.
-    * Verify cable connections; ensure all are securely in place.
-    * Attempt taking out the GPU, cleaning the pins, and blowing out all dust etc then reinserting the GPU.
-    * Troubleshoot RAM issues; try booting with 1 or 2 RAM sticks, testing different sticks as one may be faulty.
-    * Clear the CMOS.
-    * If the motherboard is potentially bricked, update the UEFI/BIOS by placing a fresh image on a flash drive. Connect it to the Flash BIOS port in the I/O port area and use the Flash BIOS Button if available. If you don't have this option, you will have to aquire a new motherboard.
-    * If possible, check how the GPU acts in another currently working system.
-    * [NVIDIA GPU Firmware Update Tool for DisplayID](https://nvidia.custhelp.com/app/answers/detail/a_id/5233/~/nvidia-gpu-firmware-update-tool-for-displayid) - [Download Link](https://us.download.nvidia.com/Windows/uefi/firmware/1.1/NVIDIA_DisplayID_Firmware_Updater_1.1-x64.exe)
+<details>
+<summary>EZ Debug LED shows "VGA" LED light - No display and failure to boot into UEFI/BIOS</summary>
+
+**Solutions:**
+
+- Check if your CPU supports iGPU (Integrated Graphics); attempt to get output from the motherboard instead of the GPU.
+- Verify cable connections; ensure all are securely in place.
+- Attempt taking out the GPU, cleaning the pins, and blowing out all dust, etc., then reinserting the GPU.
+- Troubleshoot RAM issues; try booting with 1 or 2 RAM sticks, testing different sticks as one may be faulty.
+- Clear the CMOS.
+- If the motherboard is potentially bricked, update the UEFI/BIOS by placing a fresh image on a flash drive. Connect it to the Flash BIOS port in the I/O port area and use the Flash BIOS Button if available. If you don't have this option, you will have to acquire a new motherboard.
+- If possible, check how the GPU acts in another currently working system.
+- [NVIDIA GPU Firmware Update Tool for DisplayID](https://nvidia.custhelp.com/app/answers/detail/a_id/5233/~/nvidia-gpu-firmware-update-tool-for-displayid) - [Download Link](https://us.download.nvidia.com/Windows/uefi/firmware/1.1/NVIDIA_DisplayID_Firmware_Updater_1.1-x64.exe)
+
+</details>
 
 
-## Personal Preference
+
+
+
+# Personal Preference
 | GAMING | PROFESSIONAL | ULTRABOOK |
 |-|-|-|
 | 🪫 Short Battery Life | 🪫 Short Battery Life | 🔋 Long Battery Life |
