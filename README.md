@@ -345,6 +345,22 @@ Save changes and exit.
 
 </details>
 
+<details>
+<summary>Providers</summary>
+* **AT&T:**
+ * No price increase at 12 months
+ * No annual contract
+ * No data caps
+ * No equipment fees
+
+* **Spectrum:**
+ * No contracts and No data caps
+ * FREE modem, FREE antivirus software
+
+* **Xfinity:**
+
+</details>
+
 ## Troubleshooting
 
 <details>
@@ -362,8 +378,6 @@ Save changes and exit.
 - [NVIDIA GPU Firmware Update Tool for DisplayID](https://nvidia.custhelp.com/app/answers/detail/a_id/5233/~/nvidia-gpu-firmware-update-tool-for-displayid) - [Download Link](https://us.download.nvidia.com/Windows/uefi/firmware/1.1/NVIDIA_DisplayID_Firmware_Updater_1.1-x64.exe)
 
 </details>
-
-
 
 ## Personal Preference
 | GAMING | PROFESSIONAL | ULTRABOOK |
