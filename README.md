@@ -314,6 +314,13 @@ Save changes and exit.
 
 * **MBps and Mbps Deception:**
   ISPs may deceive users by advertising Mbps (Megabits per second) instead of MBps (Megabytes per second), which is eight times smaller. This can lead to confusion about actual internet speeds. Be vigilant and read the fine print for informed decisions.
+  | Mb/s (Megabit per second) | MB/s (Megabyte per second) |
+  |-|-|
+  | 300 | 37.5 |
+  | 500 | 62.5 |
+  | 1000 (1 Gig) | 125 |
+  | 2000 (2 Gig) | 250 |
+  | 5000 (5 Gig) | 625 |
 
 * **Introductory Rates:**
   ISPs often offer attractive introductory rates that later increase significantly. Users may sign up for a seemingly affordable plan, only to face higher bills after the initial period.
