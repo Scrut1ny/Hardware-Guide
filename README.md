@@ -347,15 +347,16 @@ Save changes and exit.
 
 <details>
 <summary>Providers</summary>
+
 * **AT&T:**
- * No price increase at 12 months
- * No annual contract
- * No data caps
- * No equipment fees
+  * No price increase at 12 months
+  * No annual contract
+  * No data caps
+  * No equipment fees
 
 * **Spectrum:**
- * No contracts and No data caps
- * FREE modem, FREE antivirus software
+  * No contracts and No data caps
+  * FREE modem, FREE antivirus software
 
 * **Xfinity:**
 
