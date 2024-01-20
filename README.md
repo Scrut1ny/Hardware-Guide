@@ -9,7 +9,7 @@
 
 </details>
 
-## Troubleshooting and Maintenance
+## Maintenance
 
 <details>
 <summary>Cleaning Computer Parts</summary>
@@ -306,6 +306,8 @@ Save changes and exit.
 </details>
 
 ## Internet Service Provider (ISP)
+
+* [Speed Test](https://librespeed.org/)
 
 <details>
 <summary>Common Scams</summary>
