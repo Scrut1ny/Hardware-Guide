@@ -380,6 +380,17 @@ Save changes and exit.
 
 </details>
 
+## Software for Hardware
+
+<details>
+<summary>Software</summary>
+
+- [WizTree](https://www.diskanalyzer.com/) - [Download ⬇️](https://www.diskanalyzer.com/download)
+- [ValiDrive](https://www.grc.com/validrive.htm) - [Download ⬇️](https://www.grc.com/files/validrive.exe)
+- [OpenRGB](https://openrgb.org/index.html) - [Download ⬇️](https://openrgb.org/#downloads)
+
+</details>
+
 ## Personal Preference
 | GAMING | PROFESSIONAL | ULTRABOOK |
 |-|-|-|
