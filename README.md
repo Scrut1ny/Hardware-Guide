@@ -247,6 +247,12 @@ Save changes and exit.
   * **[HandBrake (1.7.2)](https://handbrake.fr/)**
     * [Website](https://handbrake.fr/)
     * [GitHub](https://github.com/HandBrake/HandBrake/releases/latest)
+* **Torrenting Websites**
+  * [YTS](https://yts.mx/)
+  * [1337x](https://1337x.to/)
+  * [Torrent Galaxy](https://torrentgalaxy.to/)
+  * [The Pirate Bay](https://thepiratebay.org/index.html)
+  * [Lime Torrents](https://limetorrent.cc/)
 
 </details>
 
