@@ -296,6 +296,22 @@ Save changes and exit.
 
 </details>
 
+<details>
+<summary>Microphone</summary>
+
+- [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2)
+- [Shure SM7B](https://www.amazon.com/dp/B0002E4Z8M)
+- [Shure MV7X](https://www.amazon.com/dp/B09BZZCGC8)
+
+</details>
+
+<details>
+<summary>Headphones</summary>
+
+
+
+</details>
+
 
 </details>
 
