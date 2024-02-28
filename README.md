@@ -278,6 +278,24 @@ Save changes and exit.
 
 </details>
 
+
+<details>
+<summary>Peripherals</summary>
+
+<details>
+<summary>Mouse</summary>
+- [Logitech G502 HERO](https://www.amazon.com/dp/B07GBZ4Q68)
+</details>
+
+<details>
+<summary>Keyboard</summary>
+
+</details>
+
+
+</details>
+
+
 ## Networking
 
 <details>
