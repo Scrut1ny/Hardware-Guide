@@ -308,9 +308,13 @@ Save changes and exit.
 <details>
 <summary>Headphones</summary>
 
-- [HIFIMAN SUNDARA](https://www.amazon.com/dp/B077XDWT7X)
-- [Sennheiser HD 660S2](https://www.amazon.com/dp/B0BRT1ZN7Q)
-- [beyerdynamic DT 990 Pro](https://www.amazon.com/dp/B0011UB9CQ)
+- Music
+  - [HIFIMAN SUNDARA](https://www.amazon.com/dp/B077XDWT7X)
+  - [Sennheiser HD 660S2](https://www.amazon.com/dp/B0BRT1ZN7Q)
+  - [beyerdynamic DT 990 Pro](https://www.amazon.com/dp/B0011UB9CQ)
+- Bass
+  - [Skullcandy Crusher ANC 2](https://www.amazon.com/dp/B0C9L8ZR6Q)
+  - [Skullcandy Crusher Evo](https://www.amazon.com/dp/B0CBLM9MMC)
 
 </details>
 
