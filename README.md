@@ -327,8 +327,6 @@ Save changes and exit.
 <details>
 <summary>Router</summary>
 
-## Firmware
-
 * **[pfSense](https://www.pfsense.org/)**
   * Addon: pfBlocker-NG
 * **[OpenWrt](https://openwrt.org/)**
