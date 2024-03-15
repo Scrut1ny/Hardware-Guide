@@ -401,21 +401,94 @@ Save changes and exit.
 </details>
 
 <details>
-<summary>Providers</summary>
+<summary><strong>AT&T</strong></summary>
+<p>
 
-* **AT&T:**
-  * No price increase at 12 months
-  * No annual contract
-  * No data caps
-  * No equipment fees
+- **Pricing:** Competitive pricing with various plans tailored to different needs.
+- **Coverage:** Extensive coverage, especially in urban and suburban areas.
+- **Customer Service:** Offers various channels for support, including phone, chat, and in-person services at AT&T stores.
+- **Key Features:**
+    - No price increase at 12 months.
+    - No annual contract.
+    - No data caps on many plans, allowing for unlimited data usage.
+    - No equipment fees, with included gateway for internet service.
 
-* **Spectrum:**
-  * No contracts and No data caps
-  * FREE modem, FREE antivirus software
+</p>
+</details>
 
-* **Xfinity:**
-  * [Xfinity Bills](https://youtu.be/UW5zqs5M2wI)
+<details>
+<summary><strong>Spectrum</strong></summary>
+<p>
 
+- **Pricing:** Offers straightforward pricing with promotional rates for new customers.
+- **Coverage:** Wide coverage area, particularly strong in metropolitan areas.
+- **Customer Service:** 24/7 customer support available via phone, chat, and email.
+- **Key Features:**
+    - No contracts, providing flexibility to change or cancel service without penalty.
+    - No data caps, ensuring unlimited internet usage without overage fees.
+    - Free modem and antivirus software, adding value to the service.
+
+</p>
+</details>
+
+<details>
+<summary><strong>Xfinity</strong></summary>
+<p>
+
+- **Pricing:** Flexible pricing with promotional offers for new customers; prices vary based on region.
+- **Coverage:** One of the largest coverage footprints in the U.S., especially strong in the Northeast, Midwest, and parts of the West Coast.
+- **Customer Service:** Offers multiple channels for support but has received mixed reviews on customer service quality.
+- **Key Features:**
+    - Various plans with different speeds and pricing to suit different user needs.
+    - Offers bundles for Internet, TV, and phone service.
+    - Equipment rental fees apply, with options to use your own modem to save on rental fees.
+
+</p>
+</details>
+
+<details>
+<summary><strong>Verizon Fios</strong></summary>
+<p>
+
+- **Pricing:** Competitive, especially for the fiber-optic service with higher speeds.
+- **Coverage:** Primarily available in the Northeastern U.S.
+- **Customer Service:** Generally receives favorable reviews for customer support.
+- **Key Features:**
+    - 100% fiber-optic network offering fast download and upload speeds.
+    - No annual contract with a price guarantee for up to 24 months on some plans.
+    - No data caps, allowing for unlimited internet usage.
+
+</p>
+</details>
+
+<details>
+<summary><strong>Cox Communications</strong></summary>
+<p>
+
+- **Pricing:** Offers a range of plans with promotional prices for the first 12 months.
+- **Coverage:** Primarily available in the Southwest, Central U.S., and parts of the East Coast.
+- **Customer Service:** Offers support through various channels, including online, phone, and in-person.
+- **Key Features:**
+    - Offers a variety of Internet, TV, phone, and smart home services.
+    - Data caps apply, but there are options for unlimited data plans.
+    - Equipment rental fee, with the option to use your own compatible modem.
+
+</p>
+</details>
+
+<details>
+<summary><strong>CenturyLink (Lumen Technologies)</strong></summary>
+<p>
+
+- **Pricing:** Price-for-Life guarantee on some plans, where the monthly rate doesn't increase as long as you keep your plan.
+- **Coverage:** Wide coverage, especially in rural and suburban areas.
+- **Customer Service:** Offers standard support options including phone and chat.
+- **Key Features:**
+    - No contract required, providing flexibility to customers.
+    - Offers both DSL and fiber-optic internet options, with varying speeds and availability.
+    - Data caps may apply, depending on the plan.
+
+</p>
 </details>
 
 ## Troubleshooting
