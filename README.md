@@ -358,7 +358,11 @@ Save changes and exit.
 
 ## Internet Service Provider (ISP)
 
-* [Speed Test](https://librespeed.org/)
+* Internet Speed Test
+  * [LibreSpeed](https://librespeed.org/)
+  * [Speedtest](https://www.speedtest.net/)
+  * [Fast](https://fast.com/)
+  * [cloudflare](https://speed.cloudflare.com/)
 
 <details>
 <summary>Common Scams</summary>
