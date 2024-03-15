@@ -15,6 +15,7 @@
 
 <details>
 <summary>Cleaning Computer Parts</summary>
+<p>
 
 ## Isopropyl Alcohol
 
@@ -31,6 +32,7 @@
 - Use a high-percentage isopropyl alcohol (at least 90%) for better results.
 - Ensure the computer is powered off and unplugged before cleaning.
 
+</p>
 </details>
 
 <details>
