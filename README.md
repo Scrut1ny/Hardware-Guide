@@ -241,7 +241,7 @@ Save changes and exit.
 * **Software**
   * **[MakeMKV (v1.17.6)](https://makemkv.com/)**
     * [Download ⬇️](https://makemkv.com/download/Setup_MakeMKV_v1.17.6.exe)
-    * [Current Beta Key](https://forum.makemkv.com/forum/viewtopic.php?t=1053): `T-ocdqxyxgcXfTChWA2wWkv9P0QVVolgkD3GyOgZ1Z30p7t1Fm14kPcT5eIAYEneuDBx`
+    * [Current Beta Key](https://forum.makemkv.com/forum/viewtopic.php?t=1053): `T-nG89YZ0OKvZx4umZwYcU0bh2M5DwF7hcp3JeoMn0zzbQG@zgvLRURcxMSN6ldZzF72`
     * [SDFtool Flasher (v1.3.5) - Download ⬇️](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file)
     * ["All You Need Firmware Pack" - Download ⬇️](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
   * **[HandBrake (1.7.2)](https://handbrake.fr/)**
