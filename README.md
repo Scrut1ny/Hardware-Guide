@@ -410,6 +410,7 @@ Save changes and exit.
   * FREE modem, FREE antivirus software
 
 * **Xfinity:**
+  * [Xfinity Bills](https://youtu.be/UW5zqs5M2wI)
 
 </details>
 
