@@ -345,8 +345,8 @@ Save changes and exit.
 <details>
 <summary>Physical Connections</summary>
 
-* **ISP (Coax) --> MoCA Converter/Adapter --> Router**
-* **ISP (SFP/Fiber) --> SFP/Fiber to RJ45/Ethernet Converter/Adapter --> Router**
+* **ISP (Coax) --> Modem --> MoCA Converter/Adapter --> Router**
+* **ISP (SFP/Fiber) --> Modem --> SFP/Fiber to RJ45/Ethernet Converter/Adapter --> Router**
 
 * **Converters/Adapters**
   * [Coax to RJ45 (MoCA)](https://www.amazon.com/dp/B013J7OBUU)
