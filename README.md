@@ -352,6 +352,8 @@ Save changes and exit.
   * [Coax to RJ45 (MoCA)](https://www.amazon.com/dp/B013J7OBUU)
   * [SFP to RJ45](https://www.amazon.com/dp/B003CFATL0)
 
+![image](https://github.com/Scrut1ny/Hardware-Guide/assets/53458032/91969929-b5a8-403f-ba4c-2059b9f2138f)
+
 </details>
 
 ## Internet Service Provider (ISP)
