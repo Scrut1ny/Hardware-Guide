@@ -2,11 +2,13 @@
 
 <details>
 <summary>Electronics Store Websites</summary>
+<p>
 
 - [newegg](https://www.newegg.com/)
 - [Amazon](https://www.amazon.com/gp/browse.html?node=172282)
 - [Micro Center](https://www.microcenter.com/)
 
+</p>
 </details>
 
 ## Maintenance
