@@ -417,6 +417,7 @@ DOCSIS 3.1
   - Backward Compatibility: Compatible with DOCSIS 3.0 equipment.
   - Energy Efficiency: Features designed to reduce power consumption.
   - Enhanced Security: Offers stronger encryption and security measures.
+
 DOCSIS 3.0
   - Increased Bandwidth: Supports up to 1 Gbps downstream and up to 200 Mbps upstream.
   - Channel Bonding: Combines multiple channels to increase data transfer rates.
