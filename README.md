@@ -405,6 +405,22 @@ Save changes and exit.
 </details>
 
 <details>
+<summary><strong>Top Recommended Cable Modems</strong></summary>
+<p>
+
+- [Motorola MB8600](https://www.amazon.com/dp/B0723599RQ)
+  - 1 Gbps
+  - DOCSIS 3.1
+  - Compatible with: Xfinity, Spectrum, Optimum, and Cox
+- [NETGEAR CM1000](https://www.amazon.com/dp/B01I5TJGSE)
+  - 1 Gbps
+  - DOCSIS 3.1
+  - Compatible with: Xfinity, Spectrum, Optimum, and Cox
+
+</p>
+</details>
+
+<details>
 <summary><strong>AT&T</strong></summary>
 <p>
 
