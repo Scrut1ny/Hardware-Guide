@@ -408,6 +408,23 @@ Save changes and exit.
 <summary><strong>Top Recommended Cable Modems</strong></summary>
 <p>
 
+DOCSIS (Data Over Cable Service Interface Specification)
+
+DOCSIS 3.1
+  - Increased Bandwidth: Up to 10 Gbps downstream and 1-2 Gbps upstream.
+  - Improved Efficiency: Uses 4096-QAM and OFDM for better data transmission.
+  - Lower Latency: Enhanced for real-time applications like online gaming and VoIP.
+  - Backward Compatibility: Compatible with DOCSIS 3.0 equipment.
+  - Energy Efficiency: Features designed to reduce power consumption.
+  - Enhanced Security: Offers stronger encryption and security measures.
+DOCSIS 3.0
+  - Increased Bandwidth: Supports up to 1 Gbps downstream and up to 200 Mbps upstream.
+  - Channel Bonding: Combines multiple channels to increase data transfer rates.
+  - IPv6 Support: Provides support for the latest Internet Protocol version 6 (IPv6).
+  - Backward Compatibility: Compatible with previous DOCSIS standards.
+  - Improved Security: Enhanced security features over DOCSIS 2.0, including AES encryption.
+  - Quality of Service (QoS): Improved QoS features for better management of data traffic prioritization.
+
 - [Motorola MB8600](https://www.amazon.com/dp/B0723599RQ)
   - 1 Gbps
   - DOCSIS 3.1
