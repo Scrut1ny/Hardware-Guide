@@ -325,9 +325,22 @@ Save changes and exit.
 <details>
 <summary>Monitor/Display</summary>
 
-## Sync Technology
+## Adaptive Sync Technologies
 - **G-Sync**: Developed by Nvidia. Compatible with Nvidia graphics cards. G-Sync monitors tend to be more expensive due to proprietary technology.
 - **FreeSync**: Developed by AMD. Compatible with AMD graphics cards. FreeSync monitors are generally more affordable.
+
+## Key Considerations
+
+1. **Resolution**: Opt for at least Full HD (1920x1080) for crisp visuals, with higher resolutions providing sharper images.
+2. **Refresh Rate**: Choose a monitor with a refresh rate of 144Hz or higher for smoother motion and reduced blur.
+3. **Response Time**: Look for a response time of 5ms or lower to minimize ghosting and motion blur.
+4. **Panel Technology**: Decide between TN (fast response times), IPS (better color accuracy), or VA (balanced performance).
+5. **Adaptive Sync**: Ensure compatibility with AMD FreeSync or NVIDIA G-SYNC to reduce screen tearing and stuttering.
+6. **Input Lag**: Prioritize monitors with low input lag for responsive gameplay.
+7. **Size and Aspect Ratio**: Consider screen size and aspect ratio based on personal preference and gaming setup.
+8. **Connectivity**: Check for ample input ports like HDMI, DisplayPort, or USB-C to connect gaming devices.
+9. **Additional Features**: Evaluate extras like built-in speakers, adjustable stands, or RGB lighting based on your needs.
+10. **Price and Budget**: Set a budget and prioritize features accordingly for the best value.
 
 ## Arm Stands
 - 1 Arm Stands
