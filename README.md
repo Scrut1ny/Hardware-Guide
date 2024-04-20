@@ -322,6 +322,23 @@ Save changes and exit.
 
 </details>
 
+<details>
+<summary>Monitor/Display</summary>
+
+## Sync Technology
+- **G-Sync**: Developed by Nvidia. Compatible with Nvidia graphics cards. G-Sync monitors tend to be more expensive due to proprietary technology.
+- **FreeSync**: Developed by AMD. Compatible with AMD graphics cards. FreeSync monitors are generally more affordable.
+
+## Arm Stands
+- 1 Arm Stands
+  - [HUANUO Single Monitor Mount](https://www.amazon.com/dp/B07T3KCQ94)
+- 2 Arm Stands
+  - [HUANUO Dual Monitor Stand](https://www.amazon.com/dp/B07T5SY43L)
+- 3 Arm Stands
+  - [HUANUO Triple Monitor Mount](https://www.amazon.com/dp/B084RF63FK)
+
+</details>
+
 
 </details>
 
