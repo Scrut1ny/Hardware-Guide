@@ -330,7 +330,6 @@ Save changes and exit.
 - **FreeSync**: Developed by AMD. Compatible with AMD graphics cards. FreeSync monitors are generally more affordable.
 
 ## Key Considerations
-
 1. **Resolution**: Opt for at least Full HD (1920x1080) for crisp visuals, with higher resolutions providing sharper images.
 2. **Refresh Rate**: Choose a monitor with a refresh rate of 144Hz or higher for smoother motion and reduced blur.
 3. **Response Time**: Look for a response time of 5ms or lower to minimize ghosting and motion blur.
