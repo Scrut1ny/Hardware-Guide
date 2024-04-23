@@ -434,7 +434,7 @@ Save changes and exit.
 </details>
 
 <details>
-<summary><strong>Top Recommended Cable Modems</strong></summary>
+<summary><strong>Cable Modem Info</strong></summary>
 <p>
 
 ## DOCSIS (Data Over Cable Service Interface Specification)
