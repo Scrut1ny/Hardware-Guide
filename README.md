@@ -391,11 +391,15 @@ Save changes and exit.
 
 ## Internet Service Provider (ISP)
 
-* Internet Speed Test
-  * [LibreSpeed](https://librespeed.org/)
-  * [Speedtest](https://www.speedtest.net/)
-  * [Fast](https://fast.com/)
-  * [cloudflare](https://speed.cloudflare.com/)
+<details>
+<summary>Internet Speed Test</summary>
+
+* [LibreSpeed](https://librespeed.org/)
+* [Speedtest](https://www.speedtest.net/)
+* [Fast](https://fast.com/)
+* [cloudflare](https://speed.cloudflare.com/)
+
+</details>
 
 <details>
 <summary>Common Scams</summary>
