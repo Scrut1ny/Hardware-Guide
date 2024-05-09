@@ -372,12 +372,14 @@ Save changes and exit.
 <details>
 <summary>Physical Connections</summary>
 
-* **ISP (Coax) --> Modem --> MoCA Converter/Adapter --> Router**
-* **ISP (SFP/Fiber) --> Modem --> SFP/Fiber to RJ45/Ethernet Converter/Adapter --> Router**
+* **ISP (Coax) --> Cable Modem --> Router**
+* **ISP (SFP/Fiber) --> Fiber Modem --> SFP/Fiber to RJ45/Ethernet Converter/Adapter --> Router**
 
 * **Converters/Adapters**
   * [Coax to RJ45 (MoCA)](https://www.amazon.com/dp/B013J7OBUU)
   * [SFP to RJ45](https://www.amazon.com/dp/B003CFATL0)
+
+* [AT&T Internet equipment](https://www.att.com/support/article/u-verse-high-speed-internet/KM1011652/)
 
 ![image](https://github.com/Scrut1ny/Hardware-Guide/assets/53458032/91969929-b5a8-403f-ba4c-2059b9f2138f)
 
