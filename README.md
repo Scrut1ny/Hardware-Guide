@@ -363,12 +363,6 @@ Save changes and exit.
 * **[pfSense](https://www.pfsense.org/)**
   * Addon: pfBlocker-NG
 * **[OpenWrt](https://openwrt.org/)**
-
-</details>
-
-<details>
-<summary>Software</summary>
-
 * **[Pi-hole](https://pi-hole.net/)**
   * [Pi-hole Lists](https://firebog.net/)
   * [YT Guide](https://www.youtube.com/watch?v=0wpn3rXTe0g)
