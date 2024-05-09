@@ -563,16 +563,16 @@ Save changes and exit.
 ## Troubleshooting
 
 <details>
-<summary>EZ Debug LED shows "VGA" LED light - No display and failure to boot into UEFI/BIOS</summary>
+<summary>Troubleshooting Tips for "VGA" LED Light Issue (No Display/Failure to Boot into UEFI/BIOS):</summary>
 
 **Solutions:**
 
-- Check if your CPU supports iGPU (Integrated Graphics); attempt to get output from the motherboard instead of the GPU.
 - Verify cable connections; ensure all are securely in place.
+- Clear the CMOS.
+- Check if your CPU supports iGPU (Integrated Graphics); attempt to get output from the motherboard instead of the GPU.
 - Attempt taking out the GPU, cleaning the pins, and blowing out all dust, etc., then reinserting the GPU.
 - Troubleshoot RAM issues; try booting with 1 or 2 RAM sticks, testing different sticks as one may be faulty.
-- Clear the CMOS.
-- If the motherboard is potentially bricked, update the UEFI/BIOS by placing a fresh image on a flash drive. Connect it to the Flash BIOS port in the I/O port area and use the Flash BIOS Button if available. If you don't have this option, you will have to acquire a new motherboard.
+- If the motherboard is potentially bricked, update the UEFI/BIOS by placing a fresh image on a flash drive. Connect it to the Flash BIOS port in the I/O port area and use the Flash BIOS Button if available. If you don't have this option, you will have to replace the UEFI firmware chip on the motherboard or just acquire a new motherboard.
 - If possible, check how the GPU acts in another currently working system.
 - [NVIDIA GPU Firmware Update Tool for DisplayID](https://nvidia.custhelp.com/app/answers/detail/a_id/5233/~/nvidia-gpu-firmware-update-tool-for-displayid) - [Download Link](https://us.download.nvidia.com/Windows/uefi/firmware/1.1/NVIDIA_DisplayID_Firmware_Updater_1.1-x64.exe)
 
