@@ -367,6 +367,8 @@ Save changes and exit.
   * [Pi-hole Lists](https://firebog.net/)
   * [YT Guide](https://www.youtube.com/watch?v=0wpn3rXTe0g)
 
+- [How To Bypass AT&T Fiber BGW320 w/ WAS-110 SFP+](https://youtu.be/3rIsq8tW8js)
+
 </details>
 
 <details>
