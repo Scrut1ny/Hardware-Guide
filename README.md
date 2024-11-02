@@ -317,7 +317,7 @@ Save changes and exit.
   - [Sennheiser HD 660S2](https://www.amazon.com/dp/B0BRT1ZN7Q)
   - [beyerdynamic DT 990 Pro](https://www.amazon.com/dp/B0011UB9CQ)
 - Bass
-  - [Skullcandy Crusher ANC 2](https://www.amazon.com/dp/B0C9L8ZR6Q)
+  - [Skullcandy Crusher ANC 2](https://www.amazon.com/dp/B0CD1DZ6RD)
   - [Skullcandy Crusher Evo](https://www.amazon.com/dp/B0CBLM9MMC)
 
 </details>
