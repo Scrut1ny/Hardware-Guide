@@ -96,7 +96,7 @@
   - Beta Key: `T-nG89YZ0OKvZx4umZwYcU0bh2M5DwF7hcp3JeoMn0zzbQG@zgvLRURcxMSN6ldZzF72`  
 - **HandBrake** ([Latest](https://github.com/HandBrake/HandBrake/releases/latest))  
 - **Firmware Tools**:  
-  [SDFtool Flasher](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file) | [Firmware Pack](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)  
+  [SDFtool Flasher](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file) | [Firmware Pack](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
 
 #### Recommended Hardware
 - **Optical Drives**:  
