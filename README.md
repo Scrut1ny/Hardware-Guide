@@ -92,12 +92,12 @@
 <summary>💿 Ripping & Hardware Recommendations</summary>
 
 #### Tools & Software
-- **MakeMKV** ([Latest](https://www.makemkv.com/download/))
-  - Beta Key [Latest](https://forum.makemkv.com/forum/viewtopic.php?t=1053)
-- **HandBrake** ([Latest](https://github.com/HandBrake/HandBrake/releases/latest))
+- [MakeMKV](https://www.makemkv.com/download/)
+  - [Beta Key](https://forum.makemkv.com/forum/viewtopic.php?t=1053)
 - [MakeMKV Misc.](https://forum.makemkv.com/forum/viewtopic.php?t=22896)
   - [SDFtool Flasher](https://www.mediafire.com/file_premium/ic1mmyg0fputnnh/SDFtool_Flasher_%2528v1.3.6%2529.zip/file)
   - [Firmware Pack](https://www.mediafire.com/file/bpl3pz2brp9lquk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+- [HandBrake](https://github.com/HandBrake/HandBrake/releases/latest)
 
 #### Recommended Hardware
 - **Optical Drives**:
