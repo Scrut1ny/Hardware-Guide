@@ -79,10 +79,10 @@
   - Power Drain (Hold power button 15-20 sec)  
 
 #### EZ Debug LEDs
-- 🔴 **CPU**: Not detected/failed  
-- 🟡 **DRAM**: RAM issue  
-- ⚪ **VGA**: GPU issue  
-- 🟢 **BOOT**: Storage device issue  
+- 🔴 **CPU**: Not detected/failed
+- 🟡 **DRAM**: RAM issue
+- ⚪ **VGA**: GPU issue
+- 🟢 **BOOT**: Storage device issue
 </details>
 
 ---
@@ -92,17 +92,18 @@
 <summary>💿 Ripping & Hardware Recommendations</summary>
 
 #### Tools & Software
-- **MakeMKV** ([v1.17.6](https://makemkv.com/download/Setup_MakeMKV_v1.17.6.exe))  
-  - Beta Key: `T-nG89YZ0OKvZx4umZwYcU0bh2M5DwF7hcp3JeoMn0zzbQG@zgvLRURcxMSN6ldZzF72`  
-- **HandBrake** ([Latest](https://github.com/HandBrake/HandBrake/releases/latest))  
-- **Firmware Tools**:  
-  [SDFtool Flasher](https://www.mediafire.com/file/rak1mk0p0qlqa0t/SDFtool+Flasher+%28v1.3.5%29.zip/file) | [Firmware Pack](https://www.mediafire.com/file/ph1ap2egi441epk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
+- **MakeMKV** ([Latest](https://www.makemkv.com/download/))
+  - Beta Key [Latest](https://forum.makemkv.com/forum/viewtopic.php?t=1053)
+- **HandBrake** ([Latest](https://github.com/HandBrake/HandBrake/releases/latest))
+- [MakeMKV Misc.](https://forum.makemkv.com/forum/viewtopic.php?t=22896)
+  - [SDFtool Flasher](https://www.mediafire.com/file_premium/ic1mmyg0fputnnh/SDFtool_Flasher_%2528v1.3.6%2529.zip/file)
+  - [Firmware Pack](https://www.mediafire.com/file/bpl3pz2brp9lquk/All+You+Need+Firmware+Pack+%28MartyMcNuts%29.zip/file)
 
 #### Recommended Hardware
-- **Optical Drives**:  
-  [LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS) | [ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)  
-- **Enclosures**:  
-  [NexStar DX2](https://www.amazon.com/dp/B09SS74KCN) | [OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)  
+- **Optical Drives**:
+  [LG WH16NS40](https://www.amazon.com/dp/B00E7B08MS) | [ASUS BW-16D1HT](https://www.amazon.com/dp/B00DWFPDJI)
+- **Enclosures**:
+  [NexStar DX2](https://www.amazon.com/dp/B09SS74KCN) | [OWC Mercury Pro](https://www.amazon.com/dp/B06XRCCV44)
 </details>
 
 ---
@@ -113,12 +114,12 @@
 <details>
 <summary>🖱️ Mouse | ⌨️ Keyboard | 🎤 Mic | 🎧 Headphones</summary>
 
-- **Mouse**: [Logitech G502 HERO](https://www.amazon.com/dp/B07GBZ4Q68)  
-- **Microphones**:  
-  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2) | [Shure SM7B](https://www.amazon.com/dp/B0002E4Z8M)  
-- **Headphones**:  
-  - Music: [Sennheiser HD 660S2](https://www.amazon.com/dp/B0BRT1ZN7Q)  
-  - Bass: [Skullcandy Crusher ANC 2](https://www.amazon.com/dp/B0CD1DZ6RD)  
+- **Mouse**: [Logitech G502 HERO](https://www.amazon.com/dp/B07GBZ4Q68)
+- **Microphones**:
+  [Blue Yeti](https://www.amazon.com/dp/B00N1YPXW2) | [Shure SM7B](https://www.amazon.com/dp/B0002E4Z8M)
+- **Headphones**:
+  - Music: [Sennheiser HD 660S2](https://www.amazon.com/dp/B0BRT1ZN7Q)
+  - Bass: [Skullcandy Crusher ANC 2](https://www.amazon.com/dp/B0CD1DZ6RD)
 </details>
 
 ---
